@@ -35,9 +35,8 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=lilmeow)](https://solved.ac/lilmeow)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghkd1330&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ghkd1330's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkd1330&layout=compact&theme=buefy&hide_border=true" /></a>
 
